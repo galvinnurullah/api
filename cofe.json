@@ -1,0 +1,8 @@
+{
+    "posts": [
+  {"id": 1, 
+   "nama":"Caffè Latte", 
+    "jabatan" : "Rich, full-bodied espresso in steamed milk, lightly topped with foam. A caffè latte is simply a shot or two of bold, tasty espresso with fresh, sweet steamed milk over it.",
+    "poster": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBKiq1SIFWVFPfEENnuDi6si2lkg35XzdNsjDbbKRpKNXCvIgd50LAnyZAVkzqvG55Al_q_FFvIFgJN90cxVAmdMOpALdX7kG-rUbsIJKqpy60D_Ivw8gxsGVtBMrrw-4ilqwIe2Z2-YZx3w-FC5fMfTZRAX5X-VaCEpW3uRrQy0gVs0dW933KMSINeOdB/s320/caffe_latte_thumbnail.png" , 
+    "thumbnail" : "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhr9HuC13NnezG_yzlljyo7ITChreEUQ5rzsOR3gLofPOj14iXjcxdZ032lFGsFL-pCZIJUpA9O92_F4kORtVIrzZ-LTpWdENWg2DDMVZpkiow1xJYznoxRsVs6KwOBDp8p63SKtfc_bMACTDp8pb8JOpm9e3OecYeyrq56asb4rZCCxgjvMHdV3b-sLGXn/s320/caffe_latte_poster.jpg" 
+  }
